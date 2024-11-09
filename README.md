@@ -35,13 +35,13 @@ Before using this system, ensure you have the following prerequisites:
 1. Clone this repository:
   
 ```bash
-git clone https://github.com/Digital-Human-Chatbot-POC.git
+git clone https://github.com/digital-human-chatbot.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd Digital-Human-Chatbot-POC
+cd digital-human-chatbot
 ```
 
 3. Install dependencies for monorepo:
